@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project 1: Microsoft's Entry to the Film Industry
 
 * Sam Lim
@@ -12,6 +11,3 @@ This project aims to analyze the types of movies that generates the most revenue
 ### Business Problem
 
 Microsoft does not have prior experience in the film industry, and needs to minimize the risk of entering a new industry. However, there are numerous genres of movies as well as the budgeting problem. This project aims to aid Microsoft by providing datas related to these problems.
-=======
-# new_project1
->>>>>>> 975c3f3b00ce5fe959eb63c5710c15c74058274e
