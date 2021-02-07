@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 ![mslogo](images/mslogo.jpg)
-
-=======
-![mslogo](images/mslogo.jpg | height=150)
->>>>>>> 2820b5326a38d7a44e26a8e2742bdd8c03af04c9
 # Project 1: Microsoft's Entry to the Film Industry
 
 
