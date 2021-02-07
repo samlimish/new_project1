@@ -1,4 +1,4 @@
-![mslogo](images/mslogo.jpg | height=150)
+![mslogo](images/mslogo.jpg)
 # Project 1: Microsoft's Entry to the Film Industry
 
 * Sam Lim
