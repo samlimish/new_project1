@@ -66,6 +66,6 @@ Further analysis of the data including popular actors and directors could yet de
  
  ## For More Info
  
- Full analysis is available in the Jupyter Notebook or through this presentation.
+ Full analysis is available in the [Jupyter Notebook](Microsoft Popular Movie Genres Analysis.ipynb) or through this [presentation](DS Project 1 Sam Lim.pdf).
  
  For additional information, contact Sam Lim at yslim700@gmail.com
